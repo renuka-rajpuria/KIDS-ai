@@ -1,1 +1,1 @@
-# KIDS-ai
+# Chatbot for Karunya University
