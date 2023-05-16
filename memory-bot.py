@@ -130,7 +130,7 @@ with st.expander("Conversation", expanded = True):
 
 # Display stored conversation sessions in the sidebar
 for i, sublist in enumerate(st.session_state.stored_session):
-        with st.sidebar.expander(label= f"Conversation-Session:{i}"):
+        with st.sidebar.expander(label= f"Conversation-Session:{i + 1}"):
             st.write(sublist)
 
 # Allow the user to clear all stored conversation sessions
