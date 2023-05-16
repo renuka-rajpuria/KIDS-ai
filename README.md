@@ -1,1 +1,4 @@
 # Chatbot for Karunya University
+
+Note:
+Remember to replace the <OPEN_API_KEY> to a key of the format sk- from the website https://platform.openai.com/account/api-keys
